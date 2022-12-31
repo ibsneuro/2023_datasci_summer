@@ -2,16 +2,17 @@ project:
   type: website
 
 website:
-  title: "2023_datasci_summer"
+  title: "Data Science Summer Workshop 2023"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - schedule.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
