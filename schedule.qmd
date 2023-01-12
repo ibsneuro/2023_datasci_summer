@@ -3,10 +3,26 @@ title: "Schedule"
 ---
 
 ## Location
+
 MAG B2-52
 
 ## Dates & Times
 
-* Wednesday, Jan 18, 2023: 12 pm – 5 pm
-* Thursday, Jan 19, 2023: 10 am – 5 pm
-* Friday, Jan 20, 2023: 10 am – 5 pm
+### Wednesday, Jan 18, 2023: 12 pm -- 5 pm
+
+-   Welcome and introduction ("What is data science?")
+-   First steps with R
+-   Basic data exploration
+-   A reproducible workflow with Quarto
+
+### Thursday, Jan 19, 2023: 10 am -- 5 pm
+
+-   Data visualisation basics
+-   More on R
+-   Customising figures and Quarto documents
+
+### Friday, Jan 20, 2023: 10 am -- 5 pm
+
+-   Importing and tidying data
+-   Working with text ("strings")
+-   Version control with git and GitHub
