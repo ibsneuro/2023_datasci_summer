@@ -1,0 +1,126 @@
+---
+title: "Introduction to Data Science with R: Welcome!"
+date: "2023-01-18"
+date-modified: "`r Sys.Date()'"
+format: 
+  revealjs:
+#    theme: sky
+    slide-number: true
+---
+
+## What is Data Science?
+
+
+```{r}
+library(tidyverse)
+library(emo)
+library(palmerpenguins)
+library(DT)
+```
+
+:::: {.columns}
+
+::: {.column width="60%"}
+> Data science is an exciting discipline that allows you to turn raw data into understanding, insight, and knowledge.
+
+::: {style="font-size: 0.7em"}
+ Wickham, H. & Grolemund, G. (2017). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O'Reilly Media. Henceforth: *R4DS*
+
+freely available [online](https://r4ds.hadley.nz) (Note: we will be using the in-progress 2nd edition)
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![](images/r4ds.png){width=70%}
+
+:::
+
+::::
+
+## What is Data Science?
+
+![StackExchange Data Science user Stephan Kolassa [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Data_scientist_Venn_diagram.png)](images/Data_scientist_Venn_diagram.png)
+
+## What is Data Science?
+
+:::: {.columns}
+
+::: {.column width=60%}
+
+::: {style="font-size: 0.75em"}
+> 'Hal Varian, the chief economist at Google, is known to have said, "The sexy job in the next 10 years will be statisticians. People think I'm joking, but who would've guessed that computer engineers would've been the sexy job of the 1990s?" If "sexy" means having rare qualities that are much in demand, data scientists are already there. They are difficult and expensive to hire and, given the very competitive market for their services, difficult to retain. There simply aren't a lot of people with their combination of scientific background and computational and analytical skills.'
+
+:::
+
+:::
+
+::: {.column width=40%}
+
+![](images/data_science_hbr.png)
+![](images/hbr_cover.png)
+
+:::
+::::
+
+## I'm not looking for a sexy new job. Why is this relevant for me?
+
+<br> 
+
+In academic research, across a wide range of disciplines, we're also interested in turning "raw data into understanding, insight, and knowledge", as well as in communicating our results!
+
+## What you will learn here
+
+::: {style="font-size: 0.85em"}
+
+-   how to gain insights from data using contemporary computational tools
+-   basic programming skills in an open source programming language (i.e. R)
+-   how to produce reproducible reports (good for science and good for you!)
+-   how to use online repositories such as GitHub or the Open Science Framework to share data and code
+
+You will also develop an understanding of how these tools help to foster open science, reproducible research and thus the ethical treatment of data.
+
+These skills are readily generalisable across a wide range of domains.
+
+:::
+
+## So is this just another stats course ...
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+<br>
+
+Apart from the fact that we're using R?
+
+:::
+
+::: {.column width=50%}
+
+  !["Oh no you didn't" gif by *happydog* from https://giphy.com](https://media.giphy.com/media/ftqLysT45BJMagKFuk/giphy.gif)
+  
+:::
+
+::::
+
+## Not just another stats course
+
+<br>
+
+### Our focus will be on
+
+-   understanding data rather than statistical tests per se (though they may come up in passing)
+-   philosophy / workflow rather than "results"
+-   (moral of the story: it's not just about statistical significance!)
+
+## Not just another stats course
+
+<br>
+
+### You will be introduced to a set of tools and workflow that
+
+-   foster good practices in dealing with data (i.e. we try to draw the best insights we can from a dataset)
+-   foster open science (i.e. we share our data and "show our work", which is good for science and for sharing knowledge)
+-   are economical and reproducible (i.e. we avoid doing stuff by hand)
