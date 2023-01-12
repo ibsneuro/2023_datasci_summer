@@ -1,5 +1,5 @@
 ---
-title: "Content"
+title: "About"
 bibliography: references.bib
 ---
 
