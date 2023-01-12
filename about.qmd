@@ -1,10 +1,13 @@
 ---
 title: "Content"
+bibliography: references.bib
 ---
 
-During this workshop, you will be introduced to coding in R, an open-source programming language for statistical computing. The first two days will cover basic concepts of data exploration and visualisation within a reproducible workflow. Day 3 will touch on more advanced aspects of data “wrangling” including working with text and on tools for version control and collaboration (git and GitHub).
+The workshop provides a basic introduction to data science, "an exciting discipline that allows you to turn raw data into understanding, insight and knowledge" [@wickham2017]. To this end, you will be introduced to coding in R, an open-source programming language for statistical computing.
 
-Parts of the course will be loosely based on the book [R for Data Science](https://r4ds.hadley.nz) by Hadley Wickham and Garrett Grolemund, which is freely available online.  
+The first two days will cover basic concepts of data exploration and visualisation within a reproducible workflow. Day 3 will introduce data import and tidying and touch on more advanced aspects of data "wrangling" including working with text. We will also discuss tools for version control and collaboration (git and GitHub).
+
+Parts of the course will be loosely based on the book [R for Data Science](https://r4ds.hadley.nz) by Hadley Wickham and Garrett Grolemund, which is freely available online.
 
 ## Prerequisites
 
