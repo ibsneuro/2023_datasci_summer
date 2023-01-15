@@ -14,11 +14,12 @@ MAG B2-52
 
 -   Welcome and introduction ("What is data science?")
 -   First steps with R
-    -   [slides](slides/d01_01_welcome.pdf)
+    -   [slides](slides/d01_01_welcome.html){target="_blank"}
+    -   [pdf](slides/d01_01_welcome.pdf){target="_blank"}
 
 #### 2:30 -- 5 pm
 
--   Basic data exploration
+-   Basic data exploration and visualisation
 -   A reproducible workflow with Quarto
     -   [slides](slides/d01_02_basic_data_exploration.pdf)
 
@@ -26,16 +27,16 @@ MAG B2-52
 
 #### 10:00 am -- 12:30 pm
 
--   Data visualisation basics (ctd.)
+-   More on R
+-   Data visualisation (ctd.)
 
 #### 1:30 -- 3 pm
 
--   More on R
--   Customising figures and Quarto documents
+-   Practise your skills!
 
 #### 3:30 -- 5 pm
 
--   Practise your skills!
+-   Customising figures and Quarto documents
 -   Installing R and RStudio on your own computer
 
 ### Friday, Jan 20, 2023
