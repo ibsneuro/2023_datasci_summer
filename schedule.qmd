@@ -13,19 +13,20 @@ MAG B2-52
 #### 12 -- 2 pm
 
 -   Welcome and introduction ("What is data science?")
-    -   [slides](slides/d01_01_welcome.pdf)
 -   First steps with R
+    -   [slides](slides/d01_01_welcome.pdf)
 
 #### 2:30 -- 5 pm
 
 -   Basic data exploration
 -   A reproducible workflow with Quarto
+    -   [slides](slides/d01_02_basic_data_exploration.pdf)
 
 ### Thursday, Jan 19, 2023
 
 #### 10:00 am -- 12:30 pm
 
--   Data visualisation basics
+-   Data visualisation basics (ctd.)
 
 #### 1:30 -- 3 pm
 
