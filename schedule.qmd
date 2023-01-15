@@ -9,32 +9,44 @@ MAG B2-52
 ## Dates & Times
 
 ### Wednesday, Jan 18, 2023
+
 #### 12 -- 2 pm
+
 -   Welcome and introduction ("What is data science?")
+    -   [slides](slides/d01_01_welcome.html)
 -   First steps with R
 
 #### 2:30 -- 5 pm
+
 -   Basic data exploration
 -   A reproducible workflow with Quarto
 
 ### Thursday, Jan 19, 2023
+
 #### 10:00 am -- 12:30 pm
+
 -   Data visualisation basics
 
 #### 1:30 -- 3 pm
+
 -   More on R
 -   Customising figures and Quarto documents
 
 #### 3:30 -- 5 pm
-- Practise your skills!
-- Installing R and RStudio on your own computer
+
+-   Practise your skills!
+-   Installing R and RStudio on your own computer
 
 ### Friday, Jan 20, 2023
+
 #### 10:00 am -- 12:30 pm
+
 -   Importing and tidying data
 
 #### 1:30 -- 3:00 pm
+
 -   Working with text ("strings")
 
 #### 3:30 -- 5:00 pm
+
 -   Version control with git and GitHub
