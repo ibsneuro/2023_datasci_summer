@@ -32,7 +32,7 @@
     "href": "schedule.html#dates-times",
     "title": "Schedule",
     "section": "Dates & Times",
-    "text": "Dates & Times\n\nWednesday, Jan 18, 2023\n\n12 – 2 pm\n\nWelcome and introduction (“What is data science?”)\nFirst steps with R\n\n\n\n2:30 – 5 pm\n\nBasic data exploration\nA reproducible workflow with Quarto\n\n\n\n\nThursday, Jan 19, 2023\n\n10:00 am – 12:30 pm\n\nData visualisation basics\n\n\n\n1:30 – 3 pm\n\nMore on R\nCustomising figures and Quarto documents\n\n\n\n3:30 – 5 pm\n\nPractise your skills!\nInstalling R and RStudio on your own computer\n\n\n\n\nFriday, Jan 20, 2023\n\n10:00 am – 12:30 pm\n\nImporting and tidying data\n\n\n\n1:30 – 3:00 pm\n\nWorking with text (“strings”)\n\n\n\n3:30 – 5:00 pm\n\nVersion control with git and GitHub"
+    "text": "Dates & Times\n\nWednesday, Jan 18, 2023\n\n12 – 2 pm\n\nWelcome and introduction (“What is data science?”)\n\nslides\n\nFirst steps with R\n\n\n\n2:30 – 5 pm\n\nBasic data exploration\nA reproducible workflow with Quarto\n\n\n\n\nThursday, Jan 19, 2023\n\n10:00 am – 12:30 pm\n\nData visualisation basics\n\n\n\n1:30 – 3 pm\n\nMore on R\nCustomising figures and Quarto documents\n\n\n\n3:30 – 5 pm\n\nPractise your skills!\nInstalling R and RStudio on your own computer\n\n\n\n\nFriday, Jan 20, 2023\n\n10:00 am – 12:30 pm\n\nImporting and tidying data\n\n\n\n1:30 – 3:00 pm\n\nWorking with text (“strings”)\n\n\n\n3:30 – 5:00 pm\n\nVersion control with git and GitHub"
   },
   {
     "objectID": "LICENSE.html",
