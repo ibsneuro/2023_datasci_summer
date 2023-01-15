@@ -4,7 +4,7 @@ This repository contains the website content for the 2023 data science summer wo
 
 Given the brevity of the workshop (3 days) and that it does not presuppose any prior knowledge, it is intended as a foundation on which future, self-directed learning can build. Statistical modelling is beyond the scope of the course.
 
-Some materials are adapted from [Data Science in a Box](https://datasciencebox.org) by Mine Çetinkaya-Rundel ([github repo](https://github.com/rstudio-education/datascience-box)) under a [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) licence. Others draw on chapters from [R for Data Science (2nd ed.](https://r4ds.hadley.nz) by Hadley Wickham and Garrett Grolemund.
+Some materials are adapted from [Data Science in a Box](https://datasciencebox.org) by Mine Çetinkaya-Rundel ([github repo](https://github.com/rstudio-education/datascience-box)) under a [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) licence. Others draw on chapters from [R for Data Science (2nd ed.)](https://r4ds.hadley.nz) by Hadley Wickham and Garrett Grolemund.
 See individual files for details.
 
 Please see the [course website](https://ibsneuro.github.io/2023_datasci_summer/) for further details.
