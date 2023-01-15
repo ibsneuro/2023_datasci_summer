@@ -13,7 +13,7 @@ MAG B2-52
 #### 12 -- 2 pm
 
 -   Welcome and introduction ("What is data science?")
-    -   [slides](slides/d01_01_welcome.html)
+    -   [slides](slides/d01_01_welcome.pdf)
 -   First steps with R
 
 #### 2:30 -- 5 pm
