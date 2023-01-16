@@ -1,0 +1,97 @@
+---
+title: "Quarto basics / tips"
+author: "Ina Bornkessel-Schlesewsky"
+date: "2023-01-19"
+date-format: long
+format: 
+  html: 
+    theme: zephyr
+    title-block-banner: true
+    toc: true
+    toc-location: left
+    self-contained: true
+execute: 
+  echo: true
+  message: false
+  warning: false
+---
+
+```{r}
+#| echo: false
+library(tidyverse)
+library(palmerpenguins)
+library(cowplot)
+library(ggsci)
+```
+
+## Quarto basics
+
+You already have quite a bit of experience with creating basic R Quarto documents. You will want to create a more appealing document. Here are a few more tips to help you get started with this. For a comprehensive guide, see <https://quarto.org/docs/guide/>.
+
+### Additional Markdown formatting
+
+You can embed additional levels of subheadings by using more hashes. To make text appear **bold** or in *italics* use asterisks. For embedded code, use backticks, e.g. to refer to a function such as `filter()`. 
+
+There are many more options, e.g. allowing you to embed tables. See the [Markdown basics](https://quarto.org/docs/authoring/markdown-basics.html) section of the Quarto documentation for further details.[^1]
+
+[^1]: Note how this paragraph also shows you how to include a link to a website -- and this footnote!
+
+### Dotpoints and lists
+
+* dotpoints can be created easily
+* by using asterisks (hyphens work ntoo)
+* to create different levels
+  * use tabs
+  * here is one more
+
+1. numbered lists
+2. work in much the same way
+
+## Customising overall appearance
+
+To customise the overall appearance of your Quarto document, you can change the theme.
+This document use the *zephyr* theme, with a title block banner.
+See the [html theming section](https://quarto.org/docs/output-formats/html-themes.html) of the Quarto documentation for further details.
+
+There are also many other options, e.g. in regard to including a table of contents (or not) and how it is displayed.
+We have been working with html output and will continue to do so.
+However, you can also produce other output formats like pdf (again, see the documentation for details).
+
+If you want to share your document with others, you will usually want to set the self-contained option to true (see line 12 of the header).
+
+## Customising code chunks
+
+You may or may not want code to appear in your output.
+You can customise the behaviour of individual code chunks by setting the appropriate option at the beginning of the chunk using the `#|` syntax.
+For example, the chunk below runs code to create a penguins plot but does not display the code itself in the knitted document.
+This is accomplished by adding `echo: false` as a parameter.
+If you want to set `echo: false` for all chunks, you can do this by replacing the `echo: true`in line 13 of the header.
+As you can see, the header also sets `warning: false` and `message: false` for the entire document, so that warnings and messages (e.g. the one that you normally see when you load the tidyverse) aren't included in the output. 
+
+```{r}
+#| echo: false
+
+penguins  |>  
+  filter(!is.na(sex))  |>  
+  ggplot(aes(x = species, y = flipper_length_mm, colour = species)) +
+  geom_jitter(alpha = 0.4, size = 2) +
+  stat_summary(fun = mean, geom = "point", size = 5) +
+  scale_colour_npg() +
+  theme_cowplot() +
+  guides(colour = "none") +
+  labs(
+    title = "Of the Palmer peninsula penguins, \nGentoo penguins have the longest flippers",
+    subtitle = "larger dots indicate by-species means",
+    x = "",
+    y = "Flipper length (mm)",
+    caption = "source: Gorman et al. (2014) via the palmerpenguins R package"
+  )
+
+```
+
+## Including other images
+
+Including other image files is easy! Note that you need to provide the location of the image file relative to your Rmd document (this is called a "path" in technical terms). The syntax to insert the image below assumes that there is a file called "palmerpenguins.png" that is located in a subfolder called "images" of the folder in which the Rmd is located. (The idea here is similar to reading in csv or other files for data exploration and analysis.)
+
+![Palmer penguins - Artwork by @allison_horst](images/palmerpenguins.png)
+
