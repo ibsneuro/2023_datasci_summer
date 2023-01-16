@@ -51,6 +51,7 @@ MAG B2-52
 #### 10:00 am -- 12:30 pm
 
 -   Importing and tidying data
+-   A bit more on customising figures
 
 #### 1:30 -- 3:00 pm
 
