@@ -21,7 +21,8 @@ MAG B2-52
 
 -   Basic data exploration and visualisation
 -   A reproducible workflow with Quarto
-    -   [slides](slides/d01_02_basic_data_exploration.pdf)
+    -   [slides](slides/d01_02_basic_data_exploration.html){target="_blank"}
+    -   [pdf](slides/d01_02_basic_data_exploration.pdf){target="_blank"}
 
 ### Thursday, Jan 19, 2023
 
@@ -29,6 +30,8 @@ MAG B2-52
 
 -   More on R
 -   Data visualisation (ctd.)
+    -   [slides](slides/d02_03_data_exploration2.html){target="_blank"}
+    -   [pdf](slides/d02_03_data_exploration2.pdf){target="_blank"}
 
 #### 1:30 -- 3 pm
 
@@ -36,8 +39,12 @@ MAG B2-52
 
 #### 3:30 -- 5 pm
 
--   Customising figures and Quarto documents
+-   Customising Quarto documents (and figures if we have time)
+    -   [qmd](slides/d02_04_quarto.qmd){target="_download"}
+    -   [html](slides/d02_04_quarto.html){target="_blank"}
 -   Installing R and RStudio on your own computer
+    -   [slides](slides/d02_05_installing_R.html){target="_blank"}
+    -   [pdf](slides/d02_05_installing_R.pdf){target="_blank"}
 
 ### Friday, Jan 20, 2023
 
