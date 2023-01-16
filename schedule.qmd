@@ -40,7 +40,6 @@ MAG B2-52
 #### 3:30 -- 5 pm
 
 -   Customising Quarto documents (and figures if we have time)
-    -   [qmd](slides/d02_04_quarto.qmd){target="_download"}
     -   [html](slides/d02_04_quarto.html){target="_blank"}
 -   Installing R and RStudio on your own computer
     -   [slides](slides/d02_05_installing_R.html){target="_blank"}
