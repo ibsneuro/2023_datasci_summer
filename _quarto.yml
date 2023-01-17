@@ -9,6 +9,7 @@ website:
         text: Home
       - about.qmd
       - schedule.qmd
+      - licence.qmd
 
 format:
   html:
