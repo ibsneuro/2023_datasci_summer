@@ -49,7 +49,12 @@ MAG B2-52
 
 #### 10:00 am -- 12:30 pm
 
--   Importing and tidying data
+-   Importing data 
+    -   [slides](slides/d03_06a_importing_data.html){target="_blank"}
+    -   [pdf](slides/d03_06a_importing.pdf){target="_blank"}
+-   Tidying data
+    -   [slides](slides/d03_06b_tidying_data.html){target="_blank"}
+    -   [pdf](slides/d03_06b_tidying.pdf){target="_blank"}
 -   A bit more on customising figures
 
 #### 1:30 -- 3:00 pm
