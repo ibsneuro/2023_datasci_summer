@@ -21,6 +21,20 @@
     "text": "Prerequisites\nNone. Please bring a laptop (and a charger) if you would prefer to work with your own computer."
   },
   {
+    "objectID": "licence.html",
+    "href": "licence.html",
+    "title": "Licence & Acknowledgements",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution Share Alike 4.0 International licence."
+  },
+  {
+    "objectID": "licence.html#acknowledgements",
+    "href": "licence.html#acknowledgements",
+    "title": "Licence & Acknowledgements",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSome materials are adapted from Data Science in a Box by Mine Çetinkaya-Rundel (github repo) under a Creative Commons Attribution Share Alike 4.0 International licence. Others draw on chapters from R for Data Science (2nd ed.) by Hadley Wickham and Garrett Grolemund. See individual files for details."
+  },
+  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule & Materials",
