@@ -21,7 +21,7 @@ MAG B2-52
 
 -   Basic data exploration and visualisation
 -   A reproducible workflow with Quarto
-    -   [slides](slides/d01_02_basic_data_exploration.html){target="_blank"}
+    -   [slides](slides/d01_02_data_exploration_basics.html){target="_blank"}
     -   [pdf](slides/d01_02_basic_data_exploration.pdf){target="_blank"}
 
 ### Thursday, Jan 19, 2023
