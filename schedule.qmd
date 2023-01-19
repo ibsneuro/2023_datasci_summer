@@ -56,6 +56,7 @@ MAG B2-52
     -   [slides](slides/d03_06b_tidying_data.html){target="_blank"}
     -   [pdf](slides/d03_06b_tidying.pdf){target="_blank"}
 -   A bit more on customising figures
+    -   [Creating effective visualisations](slides/d03_07_effective_visualisations.html){target="_blank"}
 
 #### 1:30 -- 3:00 pm
 
