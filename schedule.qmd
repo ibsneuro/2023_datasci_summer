@@ -31,7 +31,7 @@ MAG B2-52
 -   More on R
 -   Data visualisation (ctd.)
     -   [slides](slides/d02_03_data_exploration2.html){target="_blank"}
-    -   [pdf](slides/d02_03_data_exploration2.pdf){target="_blank"}
+    -   [pdf](slides/d02_03_basic_data_exploration2.pdf){target="_blank"}
 
 #### 1:30 -- 3 pm
 
@@ -43,7 +43,7 @@ MAG B2-52
     -   [html](slides/d02_04_quarto.html){target="_blank"}
 -   Installing R and RStudio on your own computer
     -   [slides](slides/d02_05_installing_R.html){target="_blank"}
-    -   [pdf](slides/d02_05_installing_R.pdf){target="_blank"}
+    -   [pdf](slides/d02_05_installing_r.pdf){target="_blank"}
 
 ### Friday, Jan 20, 2023
 
