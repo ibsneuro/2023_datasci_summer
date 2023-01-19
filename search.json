@@ -18,7 +18,7 @@
     "href": "schedule.html#dates-times",
     "title": "Schedule & Materials",
     "section": "Dates & Times",
-    "text": "Dates & Times\n\nWednesday, Jan 18, 2023\n\n12 – 2 pm\n\nWelcome and introduction (“What is data science?”)\nFirst steps with R\n\nslides\npdf\n\n\n\n\n2:30 – 5 pm\n\nBasic data exploration and visualisation\nA reproducible workflow with Quarto\n\nslides\npdf\n\n\n\n\n\nThursday, Jan 19, 2023\n\n10:00 am – 12:30 pm\n\nMore on R\nData visualisation (ctd.)\n\nslides\npdf\n\n\n\n\n1:30 – 3 pm\n\nPractise your skills!\n\n\n\n3:30 – 5 pm\n\nCustomising Quarto documents (and figures if we have time)\n\nhtml\n\nInstalling R and RStudio on your own computer\n\nslides\npdf\n\n\n\n\n\nFriday, Jan 20, 2023\n\n10:00 am – 12:30 pm\n\nImporting data\n\nslides\npdf\n\nTidying data\n\nslides\npdf\n\nA bit more on customising figures\n\n\n\n1:30 – 3:00 pm\n\nWorking with text (“strings”)\n\n\n\n3:30 – 5:00 pm\n\nVersion control with git and GitHub"
+    "text": "Dates & Times\n\nWednesday, Jan 18, 2023\n\n12 – 2 pm\n\nWelcome and introduction (“What is data science?”)\nFirst steps with R\n\nslides\npdf\n\n\n\n\n2:30 – 5 pm\n\nBasic data exploration and visualisation\nA reproducible workflow with Quarto\n\nslides\npdf\n\n\n\n\n\nThursday, Jan 19, 2023\n\n10:00 am – 12:30 pm\n\nMore on R\nData visualisation (ctd.)\n\nslides\npdf\n\n\n\n\n1:30 – 3 pm\n\nPractise your skills!\n\n\n\n3:30 – 5 pm\n\nCustomising Quarto documents (and figures if we have time)\n\nhtml\n\nInstalling R and RStudio on your own computer\n\nslides\npdf\n\n\n\n\n\nFriday, Jan 20, 2023\n\n10:00 am – 12:30 pm\n\nImporting data\n\nslides\npdf\n\nTidying data\n\nslides\npdf\n\nA bit more on customising figures\n\nCreating effective visualisations\n\n\n\n\n1:30 – 3:00 pm\n\nWorking with text (“strings”)\n\n\n\n3:30 – 5:00 pm\n\nVersion control with git and GitHub"
   },
   {
     "objectID": "schedule.html#resources",
@@ -39,7 +39,7 @@
     "href": "licence.html#acknowledgements",
     "title": "Licence & Acknowledgements",
     "section": "Acknowledgements",
-    "text": "Acknowledgements\nSome materials are adapted from Data Science in a Box by Mine Çetinkaya-Rundel (github repo) under a Creative Commons Attribution Share Alike 4.0 International licence. Others draw on chapters from R for Data Science (2nd ed.) by Hadley Wickham and Garrett Grolemund. See individual files for details."
+    "text": "Acknowledgements\nSome materials are adapted from:\n\nData Science in a Box by Mine Çetinkaya-Rundel (github repo) under a Creative Commons Attribution Share Alike 4.0 International licence\na blogpost by Cédric Scherer under a Creative Commons Attribution 4.0 International licence.\n\nOthers draw on R for Data Science (2nd ed.) by Hadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemund.\nSee individual files for details."
   },
   {
     "objectID": "LICENSE.html",
