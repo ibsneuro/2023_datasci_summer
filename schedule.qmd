@@ -68,3 +68,4 @@ MAG B2-52
 
 ## Resources
 -   [zip archive](resources/data_sci_resources.zip) of files that we will be using
+-   [final exercise](resources/final_exercise.zip)
